@@ -1,4 +1,4 @@
 PFA
 ===
 
-supet PFA trop cool
+super PFA trop cool
