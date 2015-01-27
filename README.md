@@ -9,4 +9,4 @@ PFA
 carte bancaire sur Internet](http://www.agence-nationale-recherche.fr/Colloques/WISG2013/presentations/AAP09_E-FRAUD-BOX.pdf "e-Fraud Box : Détection et Investigation de la fraude à la 
 carte bancaire sur Internet")
 
-[FraudMiner: A Novel Credit Card Fraud Detection Model Based on Frequent Itemset Mining](http://www.hindawi.com/journals/tswj/2014/252797/) "FraudMiner: A Novel Credit Card Fraud Detection Model Based on Frequent Itemset Mining"
+[FraudMiner: A Novel Credit Card Fraud Detection Model Based on Frequent Itemset Mining](http://www.hindawi.com/journals/tswj/2014/252797/) 
