@@ -15,3 +15,5 @@ carte bancaire sur Internet")
 (https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CDMQFjAB&url=http%3A%2F%2Fwww.cob.unt.edu%2Fitds%2Fcourses%2Fdsci4520%2Fgradpres%2FB6.pptx&ei=1rfHVIgbgbNTtPeCsA0&usg=AFQjCNEmP7snRrE0-a-1FaWwunphOQ74Bg&sig2=cM9DNBwbEW0GVZS1butyJg&bvm=bv.84349003,d.d24)
 
 [Dataminingforcreditcardfraud:Acomparativestud(pdf)](http://wenku.baidu.com/view/eda7ac848762caaedd33d437)
+
+[Mahout tuto TOREAD](http://fr.slideshare.net/Cataldo/apache-mahout-tutorial-recommendation-20132014)
