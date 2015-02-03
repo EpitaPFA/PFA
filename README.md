@@ -17,3 +17,6 @@ carte bancaire sur Internet")
 [Dataminingforcreditcardfraud:Acomparativestud(pdf)](http://wenku.baidu.com/view/eda7ac848762caaedd33d437)
 
 [Mahout tuto TOREAD](http://fr.slideshare.net/Cataldo/apache-mahout-tutorial-recommendation-20132014)
+
+Pour la présentation :  
+Il faut qu'on fixe vraiment en premier le périmètre. Qu'est ce qu'on fait et qu'est ceq u'on propose. Puis aller dans les trucs techniques, présenter les technos et faire des schémas ! Il faut aussi un schéma du matériel (servers, clusters .... )
