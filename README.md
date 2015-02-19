@@ -20,5 +20,7 @@ carte bancaire sur Internet")
 
 [News utilisatoin geodatas](http://www.journaldugeek.com/2015/02/13/visa-la-geolocalisation-contre-la-fraude/)
 
+[Credit card fraud detection using meta-learning](http://www.cs.columbia.edu/~wfan/PAPERS/AAAI97Workshop.pdf)
+
 Pour la présentation :  
 Il faut qu'on fixe vraiment en premier le périmètre. Qu'est ce qu'on fait et qu'est ceq u'on propose. Puis aller dans les trucs techniques, présenter les technos et faire des schémas ! Il faut aussi un schéma du matériel (servers, clusters .... )
